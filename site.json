@@ -1,0 +1,10 @@
+{
+  "description": "Enables location-based workplace check-ins with real-time networking, ride-pooling matches, and exclusive campus perks for enhanced community engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
